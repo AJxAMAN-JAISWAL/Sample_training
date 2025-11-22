@@ -3,3 +3,4 @@ Pappi Village name: Obulareddy palli
 Pappi favourite politician: Jagan Mohan Reddy
 Pappi favourite food: frenchfries
 Gender: Biologically Female 
+Attending GIT workshop
